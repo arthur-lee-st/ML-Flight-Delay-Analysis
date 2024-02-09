@@ -1,6 +1,6 @@
 # ML-Flight-Delay-Analysis
 
-Practice using Apache Spark, Databricks, Jupyter Notebook, Machine Learning (Classifier), PySpark, Python, SQL
+Practice using Apache Spark, Jupyter Notebook, Machine Learning (Classifier), PySpark, Python, SQL
 
 Objective of this analysis is to see which Machine Learning Classifier is best for predicting whether or not a flight would be delayed.
 
