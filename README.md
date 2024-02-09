@@ -12,4 +12,8 @@ Third-party libraries used:
 5. PySpark - https://github.com/apache/spark
 6. Jupyter Notebook - https://github.com/jupyter/notebook
 
+Data source:
+1. https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGK&QO_fu146_anzr=b0-gvzr
+2. https://ourairports.com/data/
+
 https://www.kaggle.com/code/arthurleest/flightdelay-analysis
